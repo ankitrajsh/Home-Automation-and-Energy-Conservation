@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Components](#components)
-- [Circuit Diagram](#circuit-diagram)
 - [Code Overview](#code-overview)
 - [How to Use](#how-to-use)
 - [License](#license)
@@ -20,8 +19,6 @@ This project implements a home automation system using an Arduino Uno, enabling 
 - **Relay Module (for light and fan control)**
 - **Breadboard and Jumper Wires**
 
-## Circuit Diagram
-![Circuit Diagram](path/to/your/circuit-diagram.png) <!-- Replace with actual path to your circuit diagram image -->
 
 ## Code Overview
 The provided Arduino code reads values from the various sensors and controls the light and fan based on the following conditions:
