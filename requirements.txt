@@ -1,0 +1,23 @@
+# Home Automation and Energy Conservation using Arduino
+
+# Hardware Requirements
+- Arduino Uno
+- Relay Modules (2x) – For fan and light control
+- LDR (Light Dependent Resistor) – For light detection
+- LM35 Temperature Sensor – For temperature measurement
+- PIR Motion Sensor – For motion detection
+- IR Sensor – For object/motion detection
+- Light Bulb/LED – To represent a light source
+- Fan (optional) – To represent a fan
+- Resistors (based on sensor requirements)
+- Breadboard – For prototyping the circuit
+- Jumper Wires – For connections
+- Power Supply – To power the Arduino
+- USB Cable – For uploading code to the Arduino
+
+# Software Requirements
+- Arduino IDE – For writing and uploading code to the Arduino board
+- Serial Monitor (Arduino IDE built-in) – For real-time sensor data debugging
+
+# Optional Software
+- Fritzing (optional) – For creating a circuit diagram
